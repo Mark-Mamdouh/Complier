@@ -1,0 +1,482 @@
+# depslib dependency file v1.0
+1490520653 source:c:\users\maria\desktop\csed-term 6\compilers\project_trails\compiler_lexical_anaylzer\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<string>
+	"Parser.h"
+	"NFA.h"
+	"DFA.h"
+
+1490462466 c:\users\maria\desktop\csed-term 6\compilers\project_trails\compiler_lexical_anaylzer\include\parser.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<regex>
+
+1490524707 source:c:\users\maria\desktop\csed-term 6\compilers\project_trails\compiler_lexical_anaylzer\src\parser.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<regex>
+	<fstream>
+	"Parser.h"
+
+1490463497 source:c:\users\maria\desktop\csed-term 6\compilers\project_trails\compiler_lexical_anaylzer\src\state.cpp
+	"State.h"
+
+1490463460 c:\users\maria\desktop\csed-term 6\compilers\project_trails\compiler_lexical_anaylzer\include\state.h
+	<string>
+	<vector>
+	<iostream>
+	<map>
+
+1490470239 source:c:\users\maria\desktop\csed-term 6\compilers\project_trails\compiler_lexical_anaylzer\src\nfa.cpp
+	"NFA.h"
+	"DFA.h"
+	<vector>
+
+1490463449 c:\users\maria\desktop\csed-term 6\compilers\project_trails\compiler_lexical_anaylzer\include\nfa.h
+	"State.h"
+	<iostream>
+	<map>
+	<string>
+	<vector>
+	<stack>
+	"State.h"
+	"DFA.h"
+
+1490464689 c:\users\maria\desktop\csed-term 6\compilers\project_trails\compiler_lexical_anaylzer\include\dfa.h
+	<iostream>
+	<map>
+	<list>
+	<set>
+	<string>
+	<malloc.h>
+	"State.h"
+
+1490469644 source:c:\users\maria\desktop\csed-term 6\compilers\project_trails\compiler_lexical_anaylzer\src\dfa.cpp
+	"DFA.h"
+	<iostream>
+	<map>
+	<list>
+	<set>
+	<malloc.h>
+	<string.h>
+	"NFA.h"
+
+1490543589 source:c:\users\maria\desktop\csed-term 6\compilers\project_trails\new folder\compiler_lexical_anaylzer\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<string>
+	"Parser.h"
+	"NFA.h"
+	"DFA.h"
+
+1490542278 c:\users\maria\desktop\csed-term 6\compilers\project_trails\new folder\compiler_lexical_anaylzer\include\parser.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<regex>
+
+1490463448 c:\users\maria\desktop\csed-term 6\compilers\project_trails\new folder\compiler_lexical_anaylzer\include\nfa.h
+	"State.h"
+	<iostream>
+	<map>
+	<string>
+	<vector>
+	<stack>
+	"State.h"
+	"DFA.h"
+
+1490463460 c:\users\maria\desktop\csed-term 6\compilers\project_trails\new folder\compiler_lexical_anaylzer\include\state.h
+	<string>
+	<vector>
+	<iostream>
+	<map>
+
+1490542345 c:\users\maria\desktop\csed-term 6\compilers\project_trails\new folder\compiler_lexical_anaylzer\include\dfa.h
+	<iostream>
+	<map>
+	<list>
+	<set>
+	<string>
+	<malloc.h>
+	"NFA.h"
+	"State.h"
+
+1490542525 source:c:\users\maria\desktop\csed-term 6\compilers\project_trails\new folder\compiler_lexical_anaylzer\src\dfa.cpp
+	"DFA.h"
+	<iostream>
+	<map>
+	<list>
+	<set>
+	<malloc.h>
+	<string.h>
+	"NFA.h"
+	"Parser.h"
+	"Phase_one.h"
+
+1490543589 source:c:\users\maria\desktop\csed-term 6\compilers\project_trails\new folder\compiler_lexical_anaylzer\src\nfa.cpp
+	"NFA.h"
+	"DFA.h"
+	<vector>
+
+1490542830 source:c:\users\maria\desktop\csed-term 6\compilers\project_trails\new folder\compiler_lexical_anaylzer\src\parser.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<regex>
+	<fstream>
+	"Parser.h"
+
+1490463496 source:c:\users\maria\desktop\csed-term 6\compilers\project_trails\new folder\compiler_lexical_anaylzer\src\state.cpp
+	"State.h"
+
+1490537995 c:\users\maria\desktop\csed-term 6\compilers\project_trails\new folder\compiler_lexical_anaylzer\include\phase_one.h
+
+1490542524 source:c:\users\lenovo\desktop\elgamd_gedan\compiler_lexical_anaylzer\src\dfa.cpp
+	"DFA.h"
+	<iostream>
+	<map>
+	<list>
+	<set>
+	<malloc.h>
+	<string.h>
+	"NFA.h"
+	"Parser.h"
+	"Phase_one.h"
+
+1490542344 c:\users\lenovo\desktop\elgamd_gedan\compiler_lexical_anaylzer\include\dfa.h
+	<iostream>
+	<map>
+	<list>
+	<set>
+	<string>
+	<malloc.h>
+	"NFA.h"
+	"State.h"
+
+1490463448 c:\users\lenovo\desktop\elgamd_gedan\compiler_lexical_anaylzer\include\nfa.h
+	"State.h"
+	<iostream>
+	<map>
+	<string>
+	<vector>
+	<stack>
+	"State.h"
+	"DFA.h"
+
+1490463460 c:\users\lenovo\desktop\elgamd_gedan\compiler_lexical_anaylzer\include\state.h
+	<string>
+	<vector>
+	<iostream>
+	<map>
+
+1490542278 c:\users\lenovo\desktop\elgamd_gedan\compiler_lexical_anaylzer\include\parser.h
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<regex>
+
+1490611309 c:\users\lenovo\desktop\elgamd_gedan\compiler_lexical_anaylzer\include\phase_one.h
+	<string>
+
+1490543588 source:c:\users\lenovo\desktop\elgamd_gedan\compiler_lexical_anaylzer\src\nfa.cpp
+	"NFA.h"
+	"DFA.h"
+	<vector>
+
+1490542830 source:c:\users\lenovo\desktop\elgamd_gedan\compiler_lexical_anaylzer\src\parser.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<regex>
+	<fstream>
+	"Parser.h"
+
+1490463496 source:c:\users\lenovo\desktop\elgamd_gedan\compiler_lexical_anaylzer\src\state.cpp
+	"State.h"
+
+1490548640 source:c:\users\lenovo\desktop\elgamd_gedan\compiler_lexical_anaylzer\main.cpp
+	<iostream>
+	<vector>
+	<utility>
+	<string>
+	"Parser.h"
+	"NFA.h"
+	"DFA.h"
+	"Mini_DFA.h"
+	"Lexical_Analyzer.h"
+	"Phase_one.h"
+
+1490546918 source:c:\users\lenovo\desktop\elgamd_gedan\compiler_lexical_anaylzer\src\lexical_analyzer.cpp
+	<set>
+	<iostream>
+	<fstream>
+	"Lexical_Analyzer.h"
+
+1490546030 c:\users\lenovo\desktop\elgamd_gedan\compiler_lexical_anaylzer\include\lexical_analyzer.h
+	<string>
+	<map>
+	<vector>
+	"DFA.h"
+
+1490612596 source:c:\users\lenovo\desktop\elgamd_gedan\compiler_lexical_anaylzer\src\mini_dfa.cpp
+	"../include/Mini_DFA.h"
+
+1490610527 c:\users\lenovo\desktop\elgamd_gedan\compiler_lexical_anaylzer\include\mini_dfa.h
+	"DFA.h"
+	"Phase_one.h"
+	<map>
+
+1490626494 source:c:\users\maria\desktop\new folder\compiler_lexical_anaylzer\main.cpp
+	"Parser.h"
+	"NFA.h"
+	"DFA.h"
+	"Mini_DFA.h"
+	"Lexical_Analyzer.h"
+	"Phase_one.h"
+
+1490626166 c:\users\maria\desktop\new folder\compiler_lexical_anaylzer\include\parser.h
+	"Phase_one.h"
+
+1490463448 c:\users\maria\desktop\new folder\compiler_lexical_anaylzer\include\nfa.h
+	"State.h"
+	<iostream>
+	<map>
+	<string>
+	<vector>
+	<stack>
+	"State.h"
+	"DFA.h"
+
+1490463460 c:\users\maria\desktop\new folder\compiler_lexical_anaylzer\include\state.h
+	<string>
+	<vector>
+	<iostream>
+	<map>
+
+1490626756 c:\users\maria\desktop\new folder\compiler_lexical_anaylzer\include\dfa.h
+	"NFA.h"
+	"State.h"
+	"Phase_one.h"
+
+1490626805 c:\users\maria\desktop\new folder\compiler_lexical_anaylzer\include\phase_one.h
+	<iostream>
+	<map>
+	<list>
+	<set>
+	<malloc.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<regex>
+	<fstream>
+	<iostream>
+	<vector>
+	<utility>
+
+1490610526 c:\users\maria\desktop\new folder\compiler_lexical_anaylzer\include\mini_dfa.h
+	"DFA.h"
+	"Phase_one.h"
+	<map>
+
+1490546030 c:\users\maria\desktop\new folder\compiler_lexical_anaylzer\include\lexical_analyzer.h
+	<string>
+	<map>
+	<vector>
+	"DFA.h"
+
+1490546918 source:c:\users\maria\desktop\new folder\compiler_lexical_anaylzer\src\lexical_analyzer.cpp
+	<set>
+	<iostream>
+	<fstream>
+	"Lexical_Analyzer.h"
+
+1490612804 source:c:\users\maria\desktop\new folder\compiler_lexical_anaylzer\src\mini_dfa.cpp
+	"../include/Mini_DFA.h"
+
+1490543588 source:c:\users\maria\desktop\new folder\compiler_lexical_anaylzer\src\nfa.cpp
+	"NFA.h"
+	"DFA.h"
+	<vector>
+
+1490626184 source:c:\users\maria\desktop\new folder\compiler_lexical_anaylzer\src\parser.cpp
+	"Parser.h"
+
+1490463496 source:c:\users\maria\desktop\new folder\compiler_lexical_anaylzer\src\state.cpp
+	"State.h"
+
+1490626754 source:c:\users\maria\desktop\new folder\compiler_lexical_anaylzer\src\dfa.cpp
+	"DFA.h"
+
+1491709742 source:c:\users\maria\desktop\new_f\compiler_lexical_anaylzer\main.cpp
+	"Parser.h"
+	"NFA.h"
+	"DFA.h"
+	"Mini_DFA.h"
+	"Lexical_Analyzer.h"
+	"Phase_one.h"
+
+1491666596 c:\users\maria\desktop\new_f\compiler_lexical_anaylzer\include\parser.h
+	"Phase_one.h"
+
+1491708300 c:\users\maria\desktop\new_f\compiler_lexical_anaylzer\include\phase_one.h
+	<iostream>
+	<map>
+	<list>
+	<set>
+	<malloc.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<regex>
+	<fstream>
+	<iostream>
+	<vector>
+	<utility>
+
+1490463448 c:\users\maria\desktop\new_f\compiler_lexical_anaylzer\include\nfa.h
+	"State.h"
+	<iostream>
+	<map>
+	<string>
+	<vector>
+	<stack>
+	"State.h"
+	"DFA.h"
+
+1490463460 c:\users\maria\desktop\new_f\compiler_lexical_anaylzer\include\state.h
+	<string>
+	<vector>
+	<iostream>
+	<map>
+
+1491666825 c:\users\maria\desktop\new_f\compiler_lexical_anaylzer\include\dfa.h
+	"NFA.h"
+	"State.h"
+	"Phase_one.h"
+
+1491651924 c:\users\maria\desktop\new_f\compiler_lexical_anaylzer\include\mini_dfa.h
+	"DFA.h"
+	"Phase_one.h"
+	<map>
+
+1491709752 c:\users\maria\desktop\new_f\compiler_lexical_anaylzer\include\lexical_analyzer.h
+	<string>
+	<map>
+	<vector>
+	"DFA.h"
+
+1491713901 source:c:\users\maria\desktop\new_f\compiler_lexical_anaylzer\src\dfa.cpp
+	"DFA.h"
+
+1491707721 source:c:\users\maria\desktop\new_f\compiler_lexical_anaylzer\src\lexical_analyzer.cpp
+	<set>
+	<iostream>
+	<fstream>
+	"Lexical_Analyzer.h"
+
+1491713997 source:c:\users\maria\desktop\new_f\compiler_lexical_anaylzer\src\mini_dfa.cpp
+	"../include/Mini_DFA.h"
+
+1491704148 source:c:\users\maria\desktop\new_f\compiler_lexical_anaylzer\src\nfa.cpp
+	"NFA.h"
+	"DFA.h"
+	<vector>
+
+1491714218 source:c:\users\maria\desktop\new_f\compiler_lexical_anaylzer\src\parser.cpp
+	"Parser.h"
+
+1491667668 source:c:\users\maria\desktop\new_f\compiler_lexical_anaylzer\src\state.cpp
+	"State.h"
+
+1491825015 source:c:\users\lenovo\desktop\final compiler phase 1\compiler_lexical_anaylzer\main.cpp
+	"Parser.h"
+	"NFA.h"
+	"DFA.h"
+	"Mini_DFA.h"
+	"Lexical_Analyzer.h"
+	"Phase_one.h"
+
+1491737411 c:\users\lenovo\desktop\final compiler phase 1\compiler_lexical_anaylzer\include\parser.h
+	"Phase_one.h"
+
+1491708300 c:\users\lenovo\desktop\final compiler phase 1\compiler_lexical_anaylzer\include\phase_one.h
+	<iostream>
+	<map>
+	<list>
+	<set>
+	<malloc.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<regex>
+	<fstream>
+	<iostream>
+	<vector>
+	<utility>
+
+1490463448 c:\users\lenovo\desktop\final compiler phase 1\compiler_lexical_anaylzer\include\nfa.h
+	"State.h"
+	<iostream>
+	<map>
+	<string>
+	<vector>
+	<stack>
+	"State.h"
+	"DFA.h"
+
+1490463460 c:\users\lenovo\desktop\final compiler phase 1\compiler_lexical_anaylzer\include\state.h
+	<string>
+	<vector>
+	<iostream>
+	<map>
+
+1491666824 c:\users\lenovo\desktop\final compiler phase 1\compiler_lexical_anaylzer\include\dfa.h
+	"NFA.h"
+	"State.h"
+	"Phase_one.h"
+
+1491764240 c:\users\lenovo\desktop\final compiler phase 1\compiler_lexical_anaylzer\include\mini_dfa.h
+	"DFA.h"
+	"Phase_one.h"
+	<map>
+
+1491819587 c:\users\lenovo\desktop\final compiler phase 1\compiler_lexical_anaylzer\include\lexical_analyzer.h
+	<string>
+	<map>
+	<vector>
+	"DFA.h"
+
+1491807700 source:c:\users\lenovo\desktop\final compiler phase 1\compiler_lexical_anaylzer\src\dfa.cpp
+	"DFA.h"
+
+1491827035 source:c:\users\lenovo\desktop\final compiler phase 1\compiler_lexical_anaylzer\src\lexical_analyzer.cpp
+	<set>
+	<iostream>
+	<fstream>
+	"Lexical_Analyzer.h"
+
+1491826557 source:c:\users\lenovo\desktop\final compiler phase 1\compiler_lexical_anaylzer\src\mini_dfa.cpp
+	"../include/Mini_DFA.h"
+
+1491826625 source:c:\users\lenovo\desktop\final compiler phase 1\compiler_lexical_anaylzer\src\nfa.cpp
+	"NFA.h"
+	"DFA.h"
+	<vector>
+
+1491826694 source:c:\users\lenovo\desktop\final compiler phase 1\compiler_lexical_anaylzer\src\parser.cpp
+	"Parser.h"
+
+1491826725 source:c:\users\lenovo\desktop\final compiler phase 1\compiler_lexical_anaylzer\src\state.cpp
+	"State.h"
+

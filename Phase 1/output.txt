@@ -1,0 +1,35 @@
+int
+while
+if
+id
+assign
+id
+mulop
+num
+id
+id
+num
+invalid expression
+num
+num
+num
+id
+num
+relop
+assign
+relop
+relop
+id
+invalid expression
+invalid expression
+id
+;
+invalid expression
+invalid expression
+invalid expression
+id
+invalid expression
+invalid expression
+id
+invalid expression
+id
